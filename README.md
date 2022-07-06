@@ -20,13 +20,13 @@ https://talk-a-tive-mern.herokuapp.com/
 Clone the project
 
 ```bash
-  git clone https://github.com/shashanky1502/
+  git clone https://github.com/shashanky1502/MERN-CHAT-APP
 ```
 
 Go to the project directory
 
 ```bash
-  cd 
+  cd MERN-CHAT-APP
 ```
 
 Install dependencies
